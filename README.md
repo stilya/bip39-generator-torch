@@ -1,3 +1,4 @@
+~120K/MNEM SEC
     python gencon.py y r
     python gencon.py n r
     python gencon.py n r >> mnem.txt
